@@ -1,2 +1,2 @@
 # weather-etl-pipeline
-Hands-on project for etl pipeline practice
+A weather etl pipeline that automatically retrieves weather at midnight 
