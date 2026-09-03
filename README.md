@@ -1,2 +1,2 @@
 # weather-etl-pipeline
-Hands-on project for etl pipeline practice
+An automated ETL pipeline that retrieves and processes weather data at midnight daily, orchestrated via a cron job.”
